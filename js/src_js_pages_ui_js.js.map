@@ -1,0 +1,1 @@
+{"version":3,"file":"js/src_js_pages_ui_js.js","mappings":";;;;;;;;;;;;;AAAA,IAAMA,EAAE,GAAG,SAALA,EAAEA,CAAA,EAAS,CAAC,CAAC;AAEnB,iEAAeA,EAAE","sources":["webpack:///./src/js/pages/ui.js"],"sourcesContent":["const ui = () => {};\r\n\r\nexport default ui;\r\n"],"names":["ui"],"sourceRoot":""}
